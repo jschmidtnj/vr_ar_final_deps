@@ -14,6 +14,7 @@ dependencies for vr ar
   - deep in space: https://assetstore.unity.com/packages/audio/music/electronic/deep-in-space-88071
   - particle starter pack: https://assetstore.unity.com/packages/vfx/particles/starter-particle-pack-83179
   - laser construction kit: https://assetstore.unity.com/packages/audio/sound-fx/weapons/laser-construction-kit-15966
+  - missel: https://assetstore.unity.com/packages/3d/props/weapons/free-missile-72692
 - ship:
   - other ships: https://assetstore.unity.com/packages/3d/vehicles/space/hi-rez-spaceships-creator-free-sample-153363
   - weapons:
